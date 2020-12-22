@@ -14,7 +14,7 @@ public:
 		host,
 		type;
 };
-string user_list[5] = { "Roma","Dima","Maks","Diana","Golew" }, post_list[4] = {"Worker","Boss","Manager","Worker"};
+string user_list[5] = { "Roma","Dima","Maks","Diana","Golew" }, post_list[4] = {"Guest","Boss","Manager","Worker"};
 int main()
 {
 	setlocale(LC_ALL, "ru");
